@@ -1,3 +1,3 @@
-# html-css-project-1
-## Kasper Template
-A responsive web page with some custon changes
+# Kasper Template
+## Lang used: HTML - CSS
+A responsive web page with some custom changes
